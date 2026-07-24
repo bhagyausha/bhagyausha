@@ -7,7 +7,8 @@
 <h2 align="center">Hi, I'm Bhagyalakshmi 👋</h2>
 
 ## 🌟 About Me                                                 
-I'm a passionate **Data Scientist** and **Machine Learning Enthusiast** with a background in **Data Engineering** and **Cloud Computing**. Currently, I'm deepening my expertise in AI and Data Science.
+**API & Backend Engineer | Python, FastAPI, REST APIs, SQL, Azure, Docker & CI/CD | Ex-Ericsson and DXC | Berlin**
+I'm a Data and Automation Engineer with 3+ years of enterprise experience at Ericsson and DXC Technology. I build API-driven workflows, data pipelines, AI-enabled applications and GTM automation systems that turn operational or business signals into structured, measurable processes.
 
 🔭 **Current Focus:**  
 I’m refining my expertise in **machine learning**, **data analysis**, and **AI solutions**, with a focus on **leadership**, ready to take on a challenging role that drives innovation and tackles complex problems.
